@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lucian-alexe.github.io/csb-ghegg/static/css/main.0976a6d1.chunk.css",
+    "main.js": "https://lucian-alexe.github.io/csb-ghegg/static/js/main.b1c73541.chunk.js",
+    "main.js.map": "https://lucian-alexe.github.io/csb-ghegg/static/js/main.b1c73541.chunk.js.map",
+    "runtime-main.js": "https://lucian-alexe.github.io/csb-ghegg/static/js/runtime-main.a0c444b6.js",
+    "runtime-main.js.map": "https://lucian-alexe.github.io/csb-ghegg/static/js/runtime-main.a0c444b6.js.map",
+    "static/js/2.e1860a7c.chunk.js": "https://lucian-alexe.github.io/csb-ghegg/static/js/2.e1860a7c.chunk.js",
+    "static/js/2.e1860a7c.chunk.js.map": "https://lucian-alexe.github.io/csb-ghegg/static/js/2.e1860a7c.chunk.js.map",
+    "index.html": "https://lucian-alexe.github.io/csb-ghegg/index.html",
+    "static/css/main.0976a6d1.chunk.css.map": "https://lucian-alexe.github.io/csb-ghegg/static/css/main.0976a6d1.chunk.css.map",
+    "static/js/2.e1860a7c.chunk.js.LICENSE.txt": "https://lucian-alexe.github.io/csb-ghegg/static/js/2.e1860a7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c444b6.js",
+    "static/js/2.e1860a7c.chunk.js",
+    "static/css/main.0976a6d1.chunk.css",
+    "static/js/main.b1c73541.chunk.js"
+  ]
+}
